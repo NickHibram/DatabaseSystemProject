@@ -121,9 +121,9 @@ These are used in queries and outputs while numeric IDs maintain relational inte
 
 Run the program:
 
-
+```
 python3 gradebook_project.py
-
+```bash
 ## 8. Program Execution Flow
 
 The script performs the following steps:
@@ -229,4 +229,4 @@ SQL querying and updates
 integration with Python
 
 The system accurately manages grading data and performs all required computations, including advanced features such as dropping the lowest score.
-```bash
+
