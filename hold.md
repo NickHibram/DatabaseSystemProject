@@ -121,9 +121,9 @@ These are used in queries and outputs while numeric IDs maintain relational inte
 
 Run the program:
 
-```
-python3 gradebook_project.py
 ```bash
+python3 gradebook_project.py
+```
 ## 8. Program Execution Flow
 
 The script performs the following steps:
