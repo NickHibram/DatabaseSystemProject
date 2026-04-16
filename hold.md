@@ -124,7 +124,7 @@ Run the program:
 
 python3 gradebook_project.py
 
-8. Program Execution Flow
+## 8. Program Execution Flow
 
 The script performs the following steps:
 
@@ -137,7 +137,7 @@ Executes Tasks 4–12:
 queries
 updates
 grade calculations
-9. Implemented Tasks
+## 9. Implemented Tasks
 Task 2
 SQL commands for creating tables
 SQL commands for inserting values
@@ -161,7 +161,7 @@ Task 11
 Computes final grade using weighted averages
 Task 12
 Computes final grade with lowest score dropped
-10. Important Behavior
+## 10. Important Behavior
 
 The script executes tasks sequentially.
 
@@ -173,7 +173,7 @@ Task 9–10 modify scores
 
 👉 Later results reflect earlier updates
 
-11. Output Verification
+## 11. Output Verification
 
 The program prints results for all tasks.
 
@@ -190,7 +190,7 @@ Final grade (drop lowest):
 
 These outputs confirm correct functionality.
 
-12. Testing
+## 12. Testing
 
 The system was tested using structured test cases.
 
@@ -212,15 +212,15 @@ Actual: 95.7
 
 All test cases produced expected results.
 
-13. Assumptions
+## 13. Assumptions
 All assignments have equal maximum points (100)
 Category weights always sum to 100%
 Each student receives one score per assignment
-14. Limitations
+## 14. Limitations
 No graphical user interface
 Static dataset (no user input)
 Equal assignment weighting within categories
-15. Conclusion
+## 15. Conclusion
 
 This project successfully demonstrates:
 
